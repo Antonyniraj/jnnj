@@ -1,4 +1,4 @@
 a=7
-b=9
+b=8
 sum=a+b
 print(sum)
